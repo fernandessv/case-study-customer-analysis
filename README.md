@@ -4,7 +4,7 @@
 Analyze customer behavior over two consecutive periods to identify significant losses in customer value and engagement, and provide data-driven strategies for recovery and growth.
 
 **Context:**  
-This case study is based on retail data from a company (Acadia). The focus was to understand changes in purchasing behavior, particularly among Core and Elite segments, and within key departments like Boots and Knick Knacks.
+This case study is based on retail data from a company. The focus was on understanding changes in purchasing behavior, particularly among Core and Elite segments and within key departments like Boots and Knick Knacks.
 
 **Tools Used:**  
 - Excel (data analysis, pivot tables, charts)  
@@ -23,5 +23,5 @@ This case study is based on retail data from a company (Acadia). The focus was t
 - Ongoing monitoring of customer behavior shifts and anomalies
 
 **Files Included:**  
-- `Acadia - Sr Analyst Case Study.xlsx`: Dataset used for analysis  
-- `Acadia - Sr Analyst Case Study Presentation.pptx`: Final presentation with insights and recommendations
+- `Case Study.xlsx`: Dataset used for analysis  
+- `Case Study Presentation.pptx`: Final presentation with insights and recommendations
